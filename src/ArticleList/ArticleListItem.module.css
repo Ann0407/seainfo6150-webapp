@@ -1,5 +1,5 @@
 .container {
-    background: #eee;
+    background:linear-gradient(to right, red, white 15%);
     border: 1px solid #c00;
     margin-bottom: 20px;
     padding: 10px;
@@ -15,4 +15,10 @@
 .pubDate {
     font-weight: bold;
     font-size: smaller;
+}
+
+.text {
+    position: absolute;
+    bottom: 20px;
+    left: 250px;
 }
