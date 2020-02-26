@@ -4,4 +4,7 @@
     margin: 20px;
     background: #999;
     border: 1px dashed #666;
+    display: grid;
+    grid-column-gap: 50px;
+    grid-template-columns: auto auto auto;
 }
