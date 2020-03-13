@@ -1,0 +1,32 @@
+.container {
+    padding: 100px;
+}
+.header {
+    color: Blue;
+    font-size: x-large;
+    display: flex;
+}
+
+.quote {
+    font-style: italic;
+}
+
+@media only screen and (max-width: 600px) {
+    .container {background: red;}
+}
+
+@media only screen and (max-width: 600px) {
+    .container {background: green;}
+}
+
+@media only screen and (max-width: 600px) {
+    .container {background: blue;}
+}
+
+@media only screen and (max-width: 600px) {
+    .container {background: orange;}
+}
+
+@media only screen and (max-width: 600px) {
+    .container {background: pink;}
+}
